@@ -15,7 +15,7 @@ public class Iphone {
 		System.out.println("Price:\t   " + price);
 		System.out.println("Storage:   " + storage);
 		System.out.println("Ram:\t   " + ram);
-		System.out.println("Weight:    " + 206 + "g");
+		System.out.println("Weight:    " + weight + "g");
 		System.out.println("Thickness: " + thickness + "mm");
 	}
 
